@@ -70,13 +70,13 @@ Display of essential performance indicators like total quantity, revenue, catego
 ## 📂 Project Structure
 📁 Amazon-Sales-Dashboard
 
-├── 📄 Amazon Dashboard.png     # Screenshot of the Tableau dashboard
+├── 📄 `Amazon Dashboard.png`     # Screenshot of the Tableau dashboard
 
-├── 📄 Amazon Dashboard.twb     # Tableau dashboard File
+├── 📄 `Amazon Dashboard.twb `    # Tableau dashboard File
 
-├── 📄 README.md                # Project description and documentation
+├── 📄 `README.md `               # Project description and documentation
 
-└── 📄 Amazon Sale Report.zip   # Dataset of the Dashboard
+└── 📄 `Amazon Sale Report.zip`   # Dataset of the Dashboard
 
 ## 📚 Dataset
 - Source: [https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data)
@@ -104,7 +104,7 @@ Display of essential performance indicators like total quantity, revenue, catego
 - **Kaggle** – Dataset source
 
 ## 🖥️ How to Open
-- Download the .twb file.
+- Download the `.twb` file.
 - Open it in Tableau Public (free) or Tableau Desktop.
 
 ## 📫 Contact
